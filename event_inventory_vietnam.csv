@@ -1,0 +1,16 @@
+﻿event_id,date,year,event_actor,stream,status,source_tier,source
+VNM-01,12 Jun 2018,2018,National Assembly adopts Law on Cybersecurity 24/2018/QH14 (Art. 26(2)–(3)),R,in force 1 Jan 2019,T1,National Assembly of Vietnam (2018)
+VNM-02,15 Aug 2022,2022,"Government issues Decree 53/2022/ND-CP (in force 1 Oct 2022): local storage, retention minima, local presence",R,in force,T1,Government of Vietnam (2022)
+VNM-03,Dec 2022,2022,"VNG opens 410-rack data centre, Ho Chi Minh City",I,operational,T3,Trade reporting (Appendix B)
+VNM-04,End 2022,2022,ST Telemedia–VNG JV brings 9.6 MW Tier III facility into service; successor up to 60 MW announced for 2026,I,operational / announced,T3,Trade reporting (Appendix B)
+VNM-05,Jan–Feb 2023,2023,Four of five international submarine cables faulty; national service degradation,I,negative,T2,National media (Appendix B)
+VNM-06,17 Apr 2023,2023,Government issues Decree 13/2023/ND-CP (in force 1 Jul 2023): personal-data regime; dossiers filed with MPS,R,in force,T1,Government of Vietnam (2023)
+VNM-07,May–Jun 2023,2023,First recorded simultaneous failure of all five cables; four restored by early June,I,negative,T2,National media (Appendix B)
+VNM-08,Oct 2023,2023,MIC inspection requires TikTok to store Vietnamese users' data in-country under a licensed local entity (c. 50m users),C,undertaking,T2,National reporting of ministry findings (Appendix B)
+VNM-09,11 Apr 2024,2024,"Viettel opens Hoa Lac data centre, 30 MW, its fourteenth",I,operational,T1,Corporate announcement via PR Newswire (Appendix B)
+VNM-10,29 Aug 2024,2024,Reuters reports Google weighing c. 50 MW data centre near Ho Chi Minh City (unconfirmed by company),I,reported consideration,T2,Reuters (2024a)
+VNM-11,18 Sep 2024,2024,Reuters reports plan for ten new submarine cables by 2030; new systems via open international tenders,I,announced,T2,Reuters (2024b)
+VNM-12,Dec 2024,2024,CMC announces US$500m international data-centre expansion,I,announced,T2,National/trade reporting (Appendix B)
+VNM-13,26 Jun 2025,2025,National Assembly adopts Personal Data Protection Law 91/2025/QH15,R,in force 1 Jan 2026,T1,Official adoption record; international newswire reporting
+VNM-14,Apr 2025,2025,"Viettel begins Cu Chi campus, c. 140 MW, c. 10,000 racks (first >100 MW in Vietnam)",I,under construction,T2,National/trade reporting (Appendix B)
+VNM-15,Mid-2020s,2020,National data-centre capacity c. 220 MW installed vs 870 MW 2030 target,I,benchmark,T3,Trade estimates (Appendix B)

@@ -1,0 +1,9 @@
+﻿case,mandate_effective_date,condition,score_at_effective_date,basis,evidence_status
+India,2018-04-06,capacity_stock,present,"3 hyperscalers, 5 in-country region footprints; Mumbai-centred wholesale colocation (industry estimate)",observed (provider registries; industry estimates)
+India,2018-04-06,capacity_flow,present (not required),stock already satisfied at effective date,observed
+India,2018-04-06,switching,present,single licensing regulator (PSS Act 2007) can suspend the regulated activity,observed (statute; enforcement sequence IND-07..IND-11)
+India,2018-04-06,verification,present,board-approved System Audit Report by CERT-In-empanelled auditor; s.17 inspection,institutional design observed in rule text; operational effectiveness = interpretation
+Vietnam,2022-10-01,capacity_stock,absent,no in-country full cloud region of a major hyperscaler; national wholesale capacity c. 220 MW (trade estimate),observed absence (AWS registry; trade estimates)
+Vietnam,2022-10-01,capacity_flow,conditionally present,"state-linked and contracted build-out under way 2022-2025 (VNG, STT-VNG JV, Viettel, CMC)","announced / under construction (VNM-03..VNM-06, VNM-10..VNM-15)"
+Vietnam,2022-10-01,switching,partial (platform-specific),"market-access pressure discretionary; no licence over the regulated activity; TikTok undertakes, others serve from Singapore",observed undertakings and absence of orders; scoring = author's judgement
+Vietnam,2022-10-01,verification,absent (attestation only),transfer impact-assessment dossiers filed with the Ministry of Public Security,institutional design observed in decree text

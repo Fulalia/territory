@@ -1,0 +1,15 @@
+﻿rule_or_field,specification
+event_window,1 January 2015 - 29 February 2026
+stream_R,"regulatory: instruments, orders, approvals, clarifications"
+stream_I,"infrastructure: region launches, data-centre openings and construction starts, cable incidents, capacity benchmarks"
+stream_C,"compliance: enforcement orders, migrations, bars and liftings, filings, undertakings"
+status_codes,operational; under construction; announced; reported consideration; enforced; lifted; negative; benchmark; undertaking; observed; in force
+tier_T1,"official: regulator, ministry, legislature, court documents; corporate press releases and official corporate blogs"
+tier_T2,established media: international wires; national dailies of record
+tier_T3,trade and industry: specialist infrastructure trade press; industry-association estimates
+rule_enforcement,enforcement events are coded only from T1 sources
+rule_single_source,material facts resting on a single non-official source are excluded
+rule_cables,cable incidents are coded only where at least two national outlets reported actual service degradation
+rule_capacity_claims,corporate capacity claims are always recorded with a status (operational / under construction / announced / reported consideration)
+design_note,fit conditions are coded from the pre-outcome record; territorialisation outcomes are coded only from post-mandate events
+access_dates,web sources last accessed 30 October 2026
